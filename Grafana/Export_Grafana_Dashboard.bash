@@ -66,7 +66,7 @@ go install -v github.com/IzakMarais/reporter/cmd/grafana-reporter
 -----------------------------------------------------------
 
     Type: Link, dejamos marcado ese tipo.
-    Url: http://DIRECCION_IP_GRAFANA:8686/api/v5/report/{dashboardUID}
+    Url: http://{FQDN neteye server}:8686/api/v5/report/{dashboardUID}?apitoken={tokenid}
     Title: Informe PDF
     Tooltip: Genera un PDF de este Dashboard
     Icon: doc, para que sea un icono de un documento.
