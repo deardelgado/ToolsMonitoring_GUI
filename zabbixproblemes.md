@@ -1,4 +1,4 @@
-<table style="width: 570px; border-width: 1px; border-color: #c0c0c0; background-color: #e1e4e8; border-collapse: collapse; height: 632px;">
+<table style="width: 570px; border-width: 1px; border-color: #c0c0c0; background-color: ##3498DB; border-collapse: collapse; height: 632px;">
 	<tbody>
 		<tr>
 			<td style="width: 100%; border: 1px solid #c0c0c0;">
@@ -6,7 +6,7 @@
 					<tbody>
 						<tr>
 							<td style="width: 100%; border-image: initial; border-color: #c0c0c0;">
-								<table style="height: 54px; width: 550px; border-color: #000000; background-color: #ffffff; border-collapse: collapse; border-width: 0px; margin-left: auto; margin-right: auto;">
+								<table style="height: 54px; width: 550px; border-color: #073600; background-color: #ffffff; border-collapse: collapse; border-width: 0px; margin-left: auto; margin-right: auto;">
 									<tbody>
 										<tr>
 											<td style="width: 100%; border-color: #000000;">
